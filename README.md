@@ -73,7 +73,7 @@ Proyecto final de 4Geeks Academy orientado a la detección de fraude mediante Ma
 
 ### Contador Público · [Cinergia Estudio Creativo](https://cinergiaestudiocreativo.com/)
 
-**2018 - 2025 · Córdoba, Argentina**
+**2018 - 2024 · Córdoba, Argentina**
 
 - Gestión de conciliaciones y reportes financieros para actividades operativas y administrativas.
 - Desarrollo de planillas analíticas y reportes de seguimiento para apoyar la toma de decisiones.
